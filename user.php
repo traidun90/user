@@ -13,7 +13,10 @@ $ydblock = [""];
 $we_stat = false;
 $msgwe = "[!] oops sorry silahkan cek billboard w&e".$t.$red."[•] demi keamanan hentikan aktivitas ini  ".$t.$kuning."[--] ctrl+c kalo ngeyel bodo amat".$t.$turkis."[•] pahami dengan baik jangan  banyak tanya ";
 $msgveeu = "[!] enjoy your life";
-$data= ['irina toder','iulik galiaa',];
+
+$data= ['adi bordir','adi bordir',];
+$dataveeu= ['irina toder','iulik galiaa',];
+
 $toto = ['tes',];
 $ydnews = ['tes','adidoank',];
 ?>
