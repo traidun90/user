@@ -15,7 +15,7 @@ $msgwe = "[!] oops sorry silahkan cek billboard w&e".$t.$red."[•] demi keamana
 $msgveeu = "[!] enjoy your life";
 
 $data= ['adi bordir','adi bordir',];
-$dataveeu= ['irina toder','iulik galiaa',];
+$user_veeu= ['irina toder','iulik galiaa',];
 
 $toto = ['tes',];
 $ydnews = ['tes','adidoank',];
