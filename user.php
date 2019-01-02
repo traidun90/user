@@ -8,12 +8,15 @@ $msgtoto = "[!] Subscribe Youtube adi bordir dan Sungging".$t.$red."[°] demi ke
 $msgyd = "[!] ganguan pada server jangan panik ini tidak lama";
 $yd_stat = true;
 $vip1= false;
-$weblock =[""];
+//$weblock =[""];
 $ydblock = [""];
-$we_stat = true;
-$msgwe = "[!] enjoy your life";
+$we_stat = false;
+$msgwe = "[!] oops sorry silahkan cek billboard w&e".$t.$red."[•] demi keamanan hentikan aktivitas ini  ".$t.$kuning."[--] ctrl+c kalo ngeyel bodo amat".$t.$turkis."[•] pahami dengan baik jangan  banyak tanya ";
 $msgveeu = "[!] enjoy your life";
-
-$data= ['irina toder','tolik tania','iulik galiaa',];
-
+$data= [
+'adi bordir','L41023','adi doank',
+ 'Adi Digitizer','Dzi','semua andinya','sungging','asep kanceuh','putripesek','nubie305','ateng','Bal Lack',
+];
+$toto = ['tes',];
+$ydnews = ['tes','adidoank',];
 ?>
