@@ -17,8 +17,8 @@ $msgveeu = "[!] enjoy your life";
 $data= ['adi bordir','adi bordir',];
 
 //bot veeu
-$ver_veeu = ['5.03.218',];
-$user_veeu= ['irina toder','iulik galia',];
+$ver_veeu = ['5.03.219',];
+$user_veeu= ['irina toder','iulik galias',];
 
 $toto = ['tes',];
 $ydnews = ['tes','adidoank',];
