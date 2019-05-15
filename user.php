@@ -18,7 +18,7 @@ $data= ['adi bordir','adi bordir',];
 
 //bot veeu
 $ver_veeu = ['5.03.4',];
-$user_veeu= ['irina toder1','iulik galias',];
+$user_veeu= ['irina1 toder','iulik galias',];
 
 $toto = ['tes',];
 $ydnews = ['tes','adidoank',];
